@@ -1,0 +1,25 @@
+# Operators
+
+21 entries.
+
+- [-](./minus.md)
+- [-=](./subtract-assign.md)
+- [:=](./reassignment.md)
+- [!=](./not-equal.md)
+- [?:](./ternary.md)
+- [[]](./history-reference.md)
+- [*](./multiply.md)
+- [*=](./multiply-assign.md)
+- [/](./divide.md)
+- [/=](./divide-assign.md)
+- [%](./modulo.md)
+- [%=](./modulo-assign.md)
+- [+](./plus.md)
+- [+=](./add-assign.md)
+- [<](./less-than.md)
+- [<=](./less-than-or-equal.md)
+- [=](./assignment.md)
+- [==](./equal.md)
+- [=>](./arrow.md)
+- [>](./greater-than.md)
+- [>=](./greater-than-or-equal.md)
