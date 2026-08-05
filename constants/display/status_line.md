@@ -21,7 +21,6 @@ The `display.*` constants support [+](../../operators/plus.md) and [-](../../ope
 
 Selecting a deselected plot in the script's "Settings/Style" tab changes its display settings, causing the plotted data to appear in all available chart locations. To restore the display settings coded in the script, select "Reset settings" from the "Defaults" dropdown menu at the bottom of the "Settings" dialog box.
 
-
 ## See also
 
 - [plot()](../../functions/plot.md)
