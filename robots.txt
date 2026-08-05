@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://isurunuwanthilaka.github.io/pine-script-v6-reference/sitemap.xml
+Sitemap: https://rangatechnologies.github.io/pinegen-ai//sitemap.xml
