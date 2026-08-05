@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rangatechnologies.github.io/pinegen-ai//sitemap.xml
+Sitemap: https://rangatechnologies.github.io/pinegen-ai/sitemap.xml

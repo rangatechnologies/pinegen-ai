@@ -2,7 +2,7 @@
 
 Static mirror of https://www.tradingview.com/pine-script-reference/v6/, one markdown page per entry (syntax, arguments, returns, remarks, examples).
 
-Base URL: https://rangatechnologies.github.io/pinegen-ai//
+Base URL: https://rangatechnologies.github.io/pinegen-ai
 
 URL rule: {base}{category}/{path}.html, where {path} is the identifier below with only its FIRST dot (if any) turned into a `/`. Remaining dots stay literal.
 Examples: `ta.sma` -> functions/ta/sma.html | `strategy.risk.max_position_size` -> functions/strategy/risk.max_position_size.html | `close` -> variables/close.html
