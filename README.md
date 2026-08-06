@@ -1,4 +1,4 @@
-# **Pine Script Docs: AI Reference Repository**
+Pine Script® v6 Language Reference
 
 A structured, AI-accessible repository of the  [Pine Script Manual](https://www.tradingview.com/pine-script-docs/) maintained for use with PineGen AI and other AI-powered Pine Script tools. improved for RAG and AI-powered development tools by [PineGen AI](https://www.pinegen.ai/)
 
