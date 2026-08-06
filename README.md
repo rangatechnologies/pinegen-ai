@@ -50,3 +50,5 @@ We welcome community contributions to maintain documentation accuracy. To contri
 * [PineGen AI](https://pinegen.ai/)   
 * [Pine Script Docs Repository](https://github.com/rangatechnologies/pinegen-ai)  
 * [Official Pine Script Manual](https://www.tradingview.com/pine-script-docs/)
+
+..
